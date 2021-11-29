@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lil-biscuit
+- 👀 I’m interested in creative coding
+- 🌱 I’m currently learning TouchDesigner and P5JS
+- 💞️ I’m looking to collaborate on on-chain art projects
